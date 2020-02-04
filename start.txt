@@ -1,3 +1,144 @@
-print("HELLO GIT")
-print("WELCOME TO GIT")
-print("Sameer")
+<html>
+<head>
+	<title>simple.com</title>
+
+
+</head>
+<body background='/home/Sem6B12/Desktop/uewP6p.jpg'>
+	
+	<center>
+	<a name="top"></a>
+	<h1>WELCOME TO PRESIDENCY UNIVERSITY</h1>
+	<i><u><h3>BANGLORE,RAJANAKUNTE</h3></u></i>
+	<h4>560064</h4>
+<img src="/home/Sem6B12/Desktop/index.png" />
+</center>
+
+
+<hr></hr><br>
+<pre><p>Hello,</br>
+<em>you Deliverd your assignment on time.</br></br></em>
+Thank you</br>
+sasuke</br>	
+	</p></pre><br/>
+<hr></hr><br>
+<center>
+<big>Alignment Tag:</big></center></br>
+<sup><p align="left" >This is left align</p>
+<p align="right" >This is right align</p>
+<p align="center">This is center align</p></sup>	
+<hr></hr>
+X<sub>1</sub>:- Subscript</br><hr></hr></br>
+X<sup>2</sup>:- Superscript	
+</br><hr></hr><big>Insert Tag:</big></br></br>
+Presidency University <ins>Banglore</ins>
+
+</br><hr></hr><big>Delete Tag:</big></br></br>
+Presidency University <del>Banglore</del>
+
+
+</br><hr></hr><big>Div Tag:</big></br></br>
+<div>Presidency </div>University Banglore
+
+
+</br><hr></hr><big>Span Tag:</big></br></br>
+<span style="color:red">Presidency </span >University Banglore
+
+</br><hr></hr><big>Ancor Tag:</big></br></br>
+<a href="https://github.com/20171CSE0785/20171CSE0785">goto GitHub</a>
+
+</br><hr></hr><big>Mark Tag:</big></br></br>
+Presidency <mark>University</mark> Banglore
+
+</br><hr></hr><big>Quotes Tag:</big></br></br>
+Presidency <q>University</q> Banglore</br>
+
+<hr></hr>
+<big>Unorderd List:</big></br></br>ANIME:
+<ul type="square">
+<li>Sasuke</li>
+<li>Sarada</li>
+<li>Sakura</li>
+<li>Itachi</li>
+</ul>
+<hr></hr>
+<big>orderd List:</big></br></br>ANIME:
+<ol>
+<li>Sasuke</li>
+<li>Sarada</li>
+<li>Divya</li>
+<li>Itachi</li>
+</ol>
+
+<big>Nested List:</big></br></br>ANIME:
+<ul type="square">Uchiha:
+<ol type=i start=3>
+<li>Sasuke</li>
+<li>Sarada</li>
+<li>Sakura</li>
+<li>Itachi</li>
+</ol>
+uzumaki:
+<ol>
+<li>Naruto</li>
+<li>Henata</li>
+<li>Boruto</li>
+<li>Hemawari</li>
+</ol>
+</ul>
+
+
+<big>Nested List:</big></br></br>ANIME:
+<ul type="square">
+<li>Uchiha:</li>
+<ol type=i start=3>
+<li>Sasuke</li>
+<li>Sarada</li>
+<li>Sakura</li>
+<li>Itachi</li>
+</ol>
+<li>uzumaki:</li>
+<ul>
+
+<li>Naruto</li>
+<li>Henata</li>
+<li>Boruto</li>
+<li>Hemawari</li>
+</ol>
+</ul>
+
+
+</br><hr></hr><big>DL DT and DD Tag:</big></br></br>
+
+<DL>
+<DT>UCHIHA</DT>
+<DD>my gol exists in darkness</DD>
+<DT>Sasuke</DT>
+<DD>i have closed my eyes long ago</DD>
+</DL>
+
+
+</br><hr></hr><big>Table:</big></br></br>
+
+
+<table bgcolor="white" border="1px" cellpadding="6" cellspacing="6">
+<tr>
+	<th>Name</th>
+	<th>Salary</th>
+</tr>
+<tr>
+	<td>Sasuke</td>
+	<td>100000</td>
+</tr>
+<tr>
+	<td>Naruto</td>
+	<td>200000</td>
+</tr>
+</table>
+
+</br><hr></hr><big>GOto internal links :</big></br></br>
+
+<a href="#top">goto top </a>
+
+</body>
+</html>
