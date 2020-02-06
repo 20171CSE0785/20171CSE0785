@@ -1,0 +1,15 @@
+<html>
+<head>
+	<title>iframe.com</title>
+
+</head>
+<body>
+<p>Document content goews here..</p>
+
+<iframe src="file:///home/Sem6B12/20171CSE0785/task1" width="620px" height="300px">
+
+sorry your brouser doews not suport inline frame.
+</iframe>
+<p> Document content here...</p>
+</body>
+</html>
