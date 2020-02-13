@@ -1,0 +1,132 @@
+<html>
+<head>
+<title>Resume.com</title>
+
+</head>
+
+<body></br></br>
+<img src="/home/Sem6B12/Desktop/prez.png" height="100px" width="100px" align="right">
+<h4>Abdul Sameer</h4>
+
+mail:<a href="https://mail.google.com/mail/u/0/#inbox">abdulsameer@gmail.com</a>
+<br><br><font size="2">
++91-8617536998<br><br></font>
+
+<hr>
+<h4>CV Hightlights</h4>
+<ul><font size="2">
+<li >Cascading Style Sheets (CSS) is a style sheet language used for describing the.css is designed to enable the separation <br>n identifier unique within the document</li>
+<li>Separation of formatting and content also makes it feasible to present the same markup page in different styles for different rendering methods<br>Classes and IDs are case-sensitive, start with letters, and can include alphanumeric characters, hyphens and underscores.</li>
+<li>The name cascading comes from the specified priority scheme to determine which style rule applies if more than one rule matches a particular element<br>Classes and IDs are case-sensitive, start with letters, and can include alphanumeric characters, hyphens and underscores.</li>
+<li>In CSS, selectors declare which part of the markup a style applies to by matching tags and attributes in the markup itself<br>Classes and IDs are case-sensitive, start with letters, and can include alphanumeric characters, hyphens and underscores.</li>
+</ul></font><br><hr>
+
+
+<h4>Professional experience</h4>
+<font size="2">
+<ul>
+<li><b>
+Wingif software pvt.ldt.Support Enginear(Technical support)</b></li>
+<ul><br>
+<p>job Responsibilities</p><br>
+<li>answer customer queries over email system.</li>
+<li>interact with our engineering team to get software issue and bug resolve</li>
+<li>answer customer queries over email system.</li>
+<li>interact with our engineering team to get software issue and bug resolve</li>
+</ul>
+</ul>
+</font>
+<br>
+<hr>
+
+
+<h4>Educational Qualificatons</h4>
+<table border="1" cellspacing="3" cellpadding="3" >
+<thead  align="center">
+<th width="300">Qualification</th>
+<th width="300">Board</th>
+<th width="300">percentage/Grades</th>
+<th width="80">Year</th></thead>
+<tr>
+<td>S.S.C</td>
+<td>G.S.E.B India</td>
+<td>75.5%</td>
+<td>2004</td>
+</tr>
+
+<tr>
+<td>S.S.C</td>
+<td>G.S.E.B India</td>
+<td>75.5%</td>
+<td>2004</td>
+</tr>
+
+
+<tr>
+<td>S.S.C</td>
+<td>G.S.E.B India</td>
+<td>75.5%</td>
+<td>2004</td>
+</tr>
+
+<tr>
+<td>S.S.C</td>
+<td>G.S.E.B India</td>
+<td>75.5%</td>
+<td>2004</td>
+</tr>
+
+<tr>
+<td>S.S.C</td>
+<td>G.S.E.B India</td>
+<td>75.5%</td>
+<td>2004</td>
+</tr>
+</table>
+
+<hr>
+<h4>Independent Courses</h4>
+<ul type="circle"><font size="2" >
+<li >java</li>
+<li>python</li>
+<li>tensorflow</li>
+<li>android studio</li>
+<li>html</li>
+<li>Css</li>
+</ul></font><hr>
+
+<br>
+
+<h4>Technical Skills</h4>
+<ul type="circle"><font size="2" >
+<li >OS</li>
+<li>c++</li>
+<li>C</li>
+
+</ul></font><hr>
+
+
+<h4>Certification / Award:</h4>
+<ul type="circle"><font size="2" >
+<li >joy of computing with python</li>
+<li>Microsoft web dev</li>
+<li>football gold medal</li>
+
+</ul></font><hr>
+
+<h4>Personal Information:</h4>
+<ul type="circle"><font size="2" >
+<li >joy of computing with python</li>
+<li>Microsoft web dev</li>
+<li>football gold medal</li>
+
+</ul></font><hr>
+
+<font size="2">
+<h4>Declaration</h4>
+<p>answer customer queries over email systeminteract with our engineering team to get</p>
+</font>
+</ul></font><hr>
+
+</body>
+</html>
