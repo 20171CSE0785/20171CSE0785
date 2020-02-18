@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>css.example</title>
+<style type="text/css" media="all">
+body{
+
+background-color:linen;
+}
+h1{
+
+color:maroon;
+mragin-left:40px;
+}
+
+p{
+color:blue;
+
+
+}
+</style>
+
+
+</head>
+<body>
+<h1>This is heading</h1>
+<p>this is paragraph</p>
+</body>
+
+
+
+
+</html>

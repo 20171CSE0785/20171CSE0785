@@ -1,0 +1,22 @@
+body{
+background-image:url('/home/Sem6B12/Desktop/image/431435.jpg');
+background-repeat:no-repeat;
+background-attachment:scroll;
+
+}
+
+p{
+font-size:50px;
+
+font-family:Arial, Helvetica;
+text-decoration:overline;
+text-transform:uppercase;
+text-shadow:2px 2px 10px black;
+}
+#image{
+
+
+height:30%;
+width:30%;
+box-shadow:2px 2px 10px;
+}
