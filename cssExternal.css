@@ -1,22 +1,24 @@
-body{
-background-image:url('/home/Sem6B12/Desktop/image/431435.jpg');
-background-repeat:no-repeat;
-background-attachment:scroll;
 
+h1{
+
+color:maroon;
+mragin-left:40px;
 }
 
 p{
-font-size:50px;
-
-font-family:Arial, Helvetica;
-text-decoration:overline;
-text-transform:uppercase;
-text-shadow:2px 2px 10px black;
+color:blue;
 }
+
+
 #image{
+border-style:solid;
+border-width:5px;
+box-shadow: 2px 5px 15px #FF0000;
+border-top-style:dotted;
+border-right-style:solid;
+border-bottom-style:dotted;
+margin:25px 50px 75px 100px;
+border-radius:50px;
 
 
-height:30%;
-width:30%;
-box-shadow:2px 2px 10px;
 }

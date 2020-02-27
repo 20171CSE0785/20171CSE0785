@@ -1,29 +1,18 @@
 <html>
 <head>
 <title>css.example</title>
-<style type="text/css" media="all">
-body{
-
-background-color:linen;
-}
-h1{
-
-color:maroon;
-mragin-left:40px;
-}
-
-p{
-color:blue;
-
-
-}
-</style>
+<head>
+<link rel="stylesheet" type="text/css" href="cssExternal.css">
 
 
 </head>
 <body>
-<h1>This is heading</h1>
-<p>this is paragraph</p>
+
+<h1> This is heading</h1>
+<p>this is paragraph</p><br>
+
+<img id="image" src="/home/Sem6B12/Desktop/image/index.png">
+
 </body>
 
 
