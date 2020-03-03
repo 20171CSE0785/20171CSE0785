@@ -5,6 +5,15 @@
 
 </head>
 <body >
+
+
+<div id="nav">
+<h2 id="home">Home</h2>
+<h2 id="contact">Contact</h2>
+
+<h2 id="AboutUs">About Us</h2>
+</div>
+
 <center>
 <h1>Sasuke Uchiha</h1>
 
