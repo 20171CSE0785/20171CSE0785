@@ -4,13 +4,26 @@
 <title>css.example</title>
 
 </head>
-<body>
+<body >
 <center>
-<h1>This is heading</h1>
+<h1>Sasuke Uchiha</h1>
 
-
-<img id="image" src="/home/Sem6B12/Desktop/image/sasuke.png">
+<a href="https://github.com/20171CSE0785/20171CSE0785">visit our website click here</a>
 </center>
-<p>this is paragraph</p>
+<br><br>
+
+<img class="image" src="/home/Sem6B12/Desktop/image/sasuke.png">&nbsp&nbsp&nbsp&nbsp
+<img class="image" src="/home/Sem6B12/Desktop/image/222.jpeg">
+<br><br>
+<img class="image" src="/home/Sem6B12/Desktop/image/3692.jpg">&nbsp&nbsp&nbsp&nbsp
+
+<img class="image" src="/home/Sem6B12/Desktop/image/333.jpeg">
+<br><br>
+<img class="image" src="/home/Sem6B12/Desktop/image/prez.png">&nbsp&nbsp&nbsp&nbsp
+<img class="image" src="/home/Sem6B12/Desktop/image/36928.jpg">
+
+<br><br>
+
+
 </body>
 </html>
